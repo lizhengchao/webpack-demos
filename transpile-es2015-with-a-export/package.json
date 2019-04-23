@@ -1,0 +1,16 @@
+{
+  "name": "transpile-es2015-with-a-export",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack"
+  },
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "webpack": "4.20.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.0"
+  }
+}
